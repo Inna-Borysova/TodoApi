@@ -191,3 +191,19 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Questions?
 
 Feel free to open an issue or contact the maintainer on GitHub.
+
+# Feedback
+- Was it easy to complete the task using AI?
+Yes
+
+- How long did task take you to complete?
+2 hours
+
+- Was the code ready to run after generation? What did you have to change to make it usable?
+Not immediately. There were problems with migrations and unit tests. I needed to ask about the solution to these problems.
+
+- Which challenges did you face during completion of the task?
+Sometimes, the AI does not understand the question the first time.
+
+- Which specific prompts you learned as a good practice to complete the task?
+Using quotation marks to emphasize important points.
